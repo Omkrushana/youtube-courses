@@ -32,7 +32,7 @@ const Menus = () => {
       <Link
         className="list-group-item list-group-item-action"
         action
-        to="#"
+        to="/about-us"
         tag="a"
       >
         About us
@@ -40,7 +40,7 @@ const Menus = () => {
       <Link
         className="list-group-item list-group-item-action"
         action
-        to="#"
+        to="/conatact-us"
         tag="a"
       >
         Contact us
